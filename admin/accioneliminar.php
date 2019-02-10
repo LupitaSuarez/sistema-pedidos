@@ -1,0 +1,1 @@
+<a href="../admin/eliminarproducto.php?id=<?php echo $fila['claveProducto'];?>"><button class="btn btn-danger">Eliminar</button></a></td>
