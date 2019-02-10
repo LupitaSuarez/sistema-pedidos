@@ -34,20 +34,7 @@ while ($fila=mysql_fetch_array($resultado)) {
                 }
            ?>
     
-				
-				<!--	<div class="product">
-					<div class="product__info">
-						<img class="product__image" src="images/combo2.jpg" alt="Product 2" />
-						<h3 class="product__title">Torta de Cochinita</h3>
-						<span class="product__year extra highlight">2013</span>
-						<span class="product__region extra highlight">California</span>
-						<span class="product__varietal extra highlight">Pinot Noir</span>
-						<span class="product__alcohol extra highlight">12%</span>
-						<span class="product__price highlight">$19.90</span>
-						<button class="action action--button action--buy"><i class="fa fa-shopping-cart"></i><span class="action__text">Comprar</span></button>
-					</div>
-					<label class="action action--compare-add"><input class="check-hidden" type="checkbox" /><i class="fa fa-plus"></i><i class="fa fa-check"></i><span class="action__text action__text--invisible">Add to compare</span></label>
-				</div>-->
+			
 
 
 
